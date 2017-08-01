@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="regression suite" duration-ms="16521" started-at="2017-07-31T11:31:41Z" finished-at="2017-07-31T11:31:57Z">
+    <groups>
+    </groups>
+    <test name="test_1" duration-ms="16521" started-at="2017-07-31T11:31:41Z" finished-at="2017-07-31T11:31:57Z">
+      <class name="Testing_Project.Maven_Testing_Project.TestClassNew">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Testing_Project.Maven_Testing_Project.TestClassNew@837a77]" name="beforeClass" is-config="true" duration-ms="13526" started-at="2017-07-31T17:01:41Z" finished-at="2017-07-31T17:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="SignUpLink()[pri:0, instance:Testing_Project.Maven_Testing_Project.TestClassNew@837a77]" name="SignUpLink" duration-ms="868" started-at="2017-07-31T17:01:54Z" finished-at="2017-07-31T17:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpLink -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Testing_Project.Maven_Testing_Project.TestClassNew@837a77]" name="afterClass" is-config="true" duration-ms="2114" started-at="2017-07-31T17:01:55Z" finished-at="2017-07-31T17:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Testing_Project.Maven_Testing_Project.TestClassNew -->
+    </test> <!-- test_1 -->
+  </suite> <!-- regression suite -->
+</testng-results>
